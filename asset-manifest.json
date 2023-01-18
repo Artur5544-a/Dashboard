@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/dashboard/static/css/main.b10418c8.css",
-    "main.js": "/dashboard/static/js/main.9af032cc.js",
-    "static/js/787.545aecf5.chunk.js": "/dashboard/static/js/787.545aecf5.chunk.js",
-    "static/media/coins_img.png": "/dashboard/static/media/coins_img.709e6178775168071b03.png",
-    "index.html": "/dashboard/index.html",
-    "main.b10418c8.css.map": "/dashboard/static/css/main.b10418c8.css.map",
-    "main.9af032cc.js.map": "/dashboard/static/js/main.9af032cc.js.map",
-    "787.545aecf5.chunk.js.map": "/dashboard/static/js/787.545aecf5.chunk.js.map"
+    "main.css": "/Dashboard/static/css/main.7ba67e16.css",
+    "main.js": "/Dashboard/static/js/main.5baa1d40.js",
+    "static/js/787.545aecf5.chunk.js": "/Dashboard/static/js/787.545aecf5.chunk.js",
+    "static/media/coins_img.png": "/Dashboard/static/media/coins_img.709e6178775168071b03.png",
+    "index.html": "/Dashboard/index.html",
+    "main.7ba67e16.css.map": "/Dashboard/static/css/main.7ba67e16.css.map",
+    "main.5baa1d40.js.map": "/Dashboard/static/js/main.5baa1d40.js.map",
+    "787.545aecf5.chunk.js.map": "/Dashboard/static/js/787.545aecf5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b10418c8.css",
-    "static/js/main.9af032cc.js"
+    "static/css/main.7ba67e16.css",
+    "static/js/main.5baa1d40.js"
   ]
 }
