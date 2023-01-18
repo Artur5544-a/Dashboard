@@ -1,0 +1,145 @@
+.coins {
+    margin-top: 19px;
+    margin-left: 10px;
+    width: 267px;
+    height: 348px;
+    background: #212834;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 6.71658px;
+}
+
+.coins_txt {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px 0 17px;
+
+}
+
+.coins_txt span {
+    font-family: 'Axiforma', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.coins_txt button {
+    border: none;
+    background: none;
+    font-family: 'Axiforma', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #805AD5;
+}
+
+.coins_text {
+    margin: 28px auto 33px;
+    width: 212px;
+    height: 212px;
+    background-image: url(../../assets/img/coins_img.png);
+    background-size: 100% 100%;
+}
+
+.coins_text h1 {
+    padding-top: 20px;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5342px;
+    line-height: 21px;
+    text-align: center;
+    color: #E3D9FF;
+}
+
+.coins_text_color_green {
+    color: #97C876;
+}
+
+.coins_text h3 {
+    padding-top: 2px;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.5342px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.coins_text_img {
+    padding-top: 4px;
+    text-align: center;
+}
+
+.coins_text_img img {
+    padding-right: 4px;
+}
+
+.coins_text_span {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.5366px;
+    line-height: 20px;
+    color: #F2F2F2;
+}
+
+.coins_text_down {
+    padding-top: 8px;
+}
+
+.coins_text_down h1 {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.5342px;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.coins_text_color_red {
+    color: #D23737;
+}
+
+.coins_text_down_img {
+    text-align: center;
+}
+
+.coins_text_down_span {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13.5366px;
+    line-height: 20px;
+    color: #F2F2F2;
+}
+
+.coins_text_down_img img {
+    padding-right: 4px;
+}
+
+.coins_text_down_day {
+    display: flex;
+
+}
+
+.coins_text_down_day {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    width: 221px;
+
+}
+
+.coins_text_down_day span {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.6622px;
+    line-height: 148%;
+
+
+    color: #F2F2F2;
+}

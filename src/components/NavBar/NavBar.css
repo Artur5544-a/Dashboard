@@ -1,0 +1,65 @@
+@import url('https://fonts.cdnfonts.com/css/axiforma');
+
+.nav {
+    background-color: #212834;
+    width: 100%;
+}
+
+.navbar {
+    padding: 20px 54px;
+    /* max-width: 1812px;
+    margin: 0 auto; */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar_list ul {
+    width: 1065px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.navbar_list ul li img {
+    margin: 0 8px 0 0;
+}
+
+.navbar_list ul li {
+    list-style: none;
+    font-family: 'Axiforma', sans-serif;
+    font-size: 18px;
+    line-height: 27px;
+
+    color: #FFFFFF;
+}
+
+.navbar_list ul li:hover {
+    padding: 9px 15px;
+    background: linear-gradient(180deg, #A37DF9 0%, #7B5AC5 100%);
+    border-radius: 10px;
+}
+
+.navbar_list ul li svg {
+    margin: 0 0 0 15px;
+}
+
+.navbar_user {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: #A588E7;
+    color: #FFFFFF;
+}
+
+.navbar_users {
+    display: flex;
+    align-items: center;
+}
+
+.navbar_sun {
+    margin: 0 0 0 22px;
+}

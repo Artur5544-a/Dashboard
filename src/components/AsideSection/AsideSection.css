@@ -1,0 +1,53 @@
+.section {
+    margin-top: 10px;
+    width: 408px;
+    height: 151px;
+    background: #212734;
+    box-shadow: inset 0px -0.2px 1px #805AD5;
+    border-radius: 10px;
+}
+
+.section_txt {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 23px 18px 13px 16px;
+}
+
+.section_txt img {
+    width: 23px;
+    height: 23px;
+}
+
+.section_txt p {
+    max-width: 310px;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.0543px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.section_txt_color_red {
+    color: #E04F44;
+}
+
+.section_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section_btn button {
+
+    padding: 9px 130px;
+    background: #A37DF9;
+    border-radius: 10px;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 145%;
+    color: #FFFFFF;
+}

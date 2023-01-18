@@ -1,0 +1,147 @@
+.total_point {
+    margin-left: 13px;
+    margin-top: 19px;
+    width: 697px;
+    height: 348px;
+    background: #212734;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+
+.total_point_item {
+    padding: 18px 20px 0 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.total_point_text p {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.total_point_text {
+    display: flex;
+    align-items: center;
+}
+
+.total_point_text_select select {
+    margin-left: 12px;
+    padding: 0 7px;
+    color: #FFFFFF;
+    outline: none;
+    width: 117px;
+    height: 30px;
+    background: linear-gradient(180deg, #212834 0%, #262F3D 0.01%, #212734 100%);
+    border: 0.842853px solid #A3A0A0;
+    border-radius: 3.97656px;
+}
+
+.total_point_text_select select option {
+    background-color: #212734;
+}
+
+.total_point_text_select_year select {
+    margin-left: 11px;
+    padding: 0 8px;
+    color: #FFFFFF;
+    width: 102px;
+    height: 30px;
+    outline: none;
+    background: linear-gradient(180deg, #212834 0%, #262F3D 0.01%, #212734 100%);
+    border: 0.919089px solid #A3A0A0;
+    border-radius: 2.75727px;
+}
+
+.total_point_text_select_year select option {
+    background-color: #212734;
+}
+
+.total_point_text_btn button {
+    border: none;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #805AD5;
+    background: none;
+}
+
+.total_point_icon {
+    margin-top: 16px;
+    margin-right: 33px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.total_point_icon img {
+    margin: 0 7px 0 0;
+
+}
+
+.total_point_chartjs {
+    margin-top: 10px;
+}
+
+.total_point_chartjs .recharts-responsive-container {
+    width: 670px !important;
+    height: 177px !important;
+}
+
+.total_point_checkbox {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 12px;
+    margin-right: 33px;
+}
+
+.total_point_checkbox span {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.5116px;
+    line-height: 18px;
+    color: #128994;
+}
+
+.total_point_inp {
+    padding: 8px 15px;
+    width: 248px;
+    background: #212834;
+    border-radius: 4.0865px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    display: flex;
+    justify-content: space-between;
+}
+
+.total_point_checkbox span:nth-child(2) {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.5116px;
+    line-height: 18px;
+    color: #128994;
+}
+
+.total_point_checkbox span:nth-child(4) {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.5116px;
+    line-height: 18px;
+    color: #58C925;
+}
+
+.total_point_checkbox span:nth-child(6) {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11.5116px;
+    line-height: 18px;
+    color: #CAD9FF;
+}

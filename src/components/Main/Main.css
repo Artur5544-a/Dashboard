@@ -1,0 +1,9 @@
+.main {
+    padding: 0 54px;
+    display: flex;
+}
+.main_item{
+    flex-wrap: wrap;
+    display: flex;
+
+}

@@ -1,0 +1,96 @@
+.aside_binance {
+    margin: 26px auto 0;
+    width: 378px;
+    height: 234px;
+    background: #1A202C;
+    border-radius: 7px;
+}
+
+.aside_binance_item {
+    display: flex;
+}
+
+.aside_binance_logo {
+    padding-top: 13px;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.aside_binance_logo img {
+    margin-left: 18px;
+}
+
+.aside_binance_logo span {
+    margin-left: 14px;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.aside_binance_price {
+    margin: 16px 0 0 13px;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    color: #FFFFFF;
+}
+
+.aside_binance_chartjs p {
+    margin-top: 8px;
+    margin-left: 48px;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #61E224;
+}
+
+.aside_binance_chartjs .recharts-responsive-container {
+    margin-top: 9px;
+    margin-left: 50px;
+    width: 100px !important;
+    height: 60px !important;
+}
+
+.hr {
+    width: 351px;
+    margin: 0 auto;
+    margin-top: 9px;
+    border: 1px solid #686868;
+}
+
+.aside_binance_text {
+    display: flex;
+    align-self: center;
+}
+
+.aside_binance_text1 {
+    margin-top: 18px;
+}
+
+.aside_binance_text {
+    margin-left: 46px;
+}
+
+.aside_binance_text span {
+    margin-left: 19px;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
+}
+
+.aside_binance_text2 {
+    margin-top: 32px;
+}

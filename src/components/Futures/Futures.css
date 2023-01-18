@@ -1,0 +1,185 @@
+.futures {
+    margin-top: 12px;
+    margin-left: 17px;
+    width: 464px;
+    height: 325px;
+    background: #242A39;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4.38803px;
+}
+
+.futures_txt {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 20px 0 15px;
+}
+
+.futures_txt p {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15.8703px;
+    line-height: 23px;
+    color: #FFFFFF;
+}
+
+.futures_txt button {
+    border: none;
+    background: none;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #805AD5;
+}
+
+.futures_info {
+    display: flex;
+    justify-content: space-between;
+    margin: 6px auto;
+    background: linear-gradient(180deg, #2B3341 0%, rgba(61, 73, 95, 0.00693628) 99.99%, rgba(33, 39, 51, 0) 100%);
+    border: 0.482541px solid #686868;
+    border-radius: 5px;
+    width: 412px;
+
+}
+
+.futures_info_item {
+    margin: 0 0 16px 16px;
+}
+
+.futures_info_img ul {
+    margin-top: 8px;
+    display: flex;
+}
+
+.futures_info h4 {
+    margin-top: 16px;
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11.2645px;
+    line-height: 148%;
+    color: #FFFFFF;
+}
+
+.futures_info_img_green {
+    margin-left: 7px;
+    margin-right: 11px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.9133px;
+    line-height: 20px;
+    color: #61E224;
+}
+
+.futures_info_img_red {
+    margin-left: 7px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16.9133px;
+    line-height: 20px;
+    color: #FF0000;
+}
+
+.futures_info_btn {
+    margin: 16px 32px 16px 0;
+}
+
+.futures_info_btn button {
+    font-family: 'Axiforma', sans-serif;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFF;
+    padding: 7px 24px;
+    background: linear-gradient(180deg, #2B3341 0%, rgba(61, 73, 95, 0.00693628) 99.99%, rgba(33, 39, 51, 0) 100%);
+    border: 0.239945px solid #686868;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 2.48626px;
+}
+
+.futures_chartJs {
+    position: relative;
+    margin: 0 auto;
+    background: #1F2633;
+    border: 0.482541px solid #686868;
+    border-radius: 2.41271px;
+    width: 412px;
+    height: 120px;
+}
+
+.futures_chartJs_day {
+    left: 11px;
+    right: 73px;
+    bottom: 6px;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    max-width: 285px;
+
+}
+
+.futures_chartJs_day span {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17.6622px;
+    line-height: 148%;
+    color: #F2F2F2;
+}
+
+.futures_list {
+    margin: 8px 93px 7px 34px;
+    width: 336px;
+}
+
+.futures_list ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.futures_list ul li p {
+    font-family: 'Axiforma', sans-serif;
+    font-weight: 400;
+    font-size: 12.6962px;
+    line-height: 148%;
+    color: #FFFFFF;
+}
+
+.hr1 {
+    margin: 8px 0 7px 0;
+    width: 65px;
+    border: 1px solid #DCCDFF;
+}
+
+.hr2 {
+    margin: 8px 0 7px 0;
+    width: 102px;
+    border: 1px solid #DCCDFF;
+}
+
+.hr3 {
+    margin: 8px 0 7px 0;
+    width: 97px;
+    border: 1px solid #DCCDFF;
+}
+
+.h5_color {
+    font-family: 'Axiforma', sans-serif;
+    font-weight: 400;
+    font-size: 12.6962px;
+    line-height: 148%;
+    color: #FFFFFF;
+}
+
+.h5_col {
+    font-family: 'Axiforma', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12.6962px;
+    line-height: 148%;
+    color: #805AD5;
+}
